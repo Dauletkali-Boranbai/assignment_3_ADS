@@ -87,7 +87,7 @@ Program Output
 
 Below is an example of the program execution:
 
-![Program Output](output.png)
+![Program Output](screens/output.png)
 
 (Add your screenshot file here, for example output.png in the same folder)
 
