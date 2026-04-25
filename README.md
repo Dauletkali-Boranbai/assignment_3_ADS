@@ -89,8 +89,6 @@ Below is an example of the program execution:
 
 ![Program Output](screens/output.png)
 
-(Add your screenshot file here, for example output.png in the same folder)
-
 Conclusion
 
 Quick Sort is more efficient than Bubble Sort for large datasets, while Bubble Sort is only suitable for small or nearly sorted arrays.
