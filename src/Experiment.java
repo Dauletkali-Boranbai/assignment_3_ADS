@@ -52,7 +52,7 @@ class Experiment {
             long searchTimeRandom = measureSearchTime(randomArr, target);
             long searchTimeSorted = measureSearchTime(sortedArr, target);
 
-            System.out.println("=== SIZE: " + size + " ===");
+            System.out.println("Size: " + size );
 
             System.out.println("Random Array:");
             System.out.println("Basic Sort: " + basicTimeRandom);
